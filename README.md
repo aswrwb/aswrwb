@@ -16,12 +16,9 @@ Learning and practicing frontend design with **HTML** and **CSS**.
 We plan to expand this collection with more advanced projects that incorporate JavaScript, animations, and interactive elements. Future projects may also include integration with frameworks such as **React** or **Vue** for more dynamic web applications.
 
 ## Contributors
-- [Linu Anwar](https://github.com/aswrwb)
-- [Afrina](https://github.com/aswrwb)
+- [Lina Anwar](https://github.com/aswrwb)
+- [Afrina w/gabrael](https://github.com/aswrwb)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-👩‍💻 Created by:  
-- Lina Anwar  
-- Afrina W/Gabrael
